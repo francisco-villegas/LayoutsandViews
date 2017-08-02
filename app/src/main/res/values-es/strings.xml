@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LayoutsandViews</string>
+    <string name="hello">Hola Cadena</string>
+    <string name="sum">SUMA</string>
+    <string name="second">Ir a la segunda actividad</string>
+</resources>

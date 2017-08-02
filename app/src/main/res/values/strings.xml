@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LayoutsandViews</string>
+    <string name="hello">Hello String</string>
+    <string name="sum">SUM</string>
+    <string name="second">Go to second activity</string>
+    <string name="KEY_VALUE1">value1</string>
+    <string name="KEY2">person</string>
+</resources>
